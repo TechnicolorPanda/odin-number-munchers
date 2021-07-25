@@ -1,6 +1,3 @@
-import { startMenu } from './scripts/startMenu.js'
+import { startMenu } from './scripts/startMenu.js';
 
 startMenu();
-
-
-
